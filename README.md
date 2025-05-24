@@ -3,9 +3,9 @@
 <h3 align="center">An electrical engineering student at the University of Michigan</h3>
 <img align="right" alt="Coding" width="400" src="https://s3.amazonaws.com/snwceomedia/upb/39fa8020-8082-4102-92cf-54608e27bec7.sized-1000x1000.gif?w=1000">
 
-- 🌱 I’m currently learning **embedded systems**
+- 🌱 I’m currently learning **electrical engineering**
 
-- 💬 Ask me about **robotics**
+- 💬 Ask me about **my dog**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
